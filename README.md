@@ -1,5 +1,9 @@
 # spatial-spectacles
-#THREE.JS
+
+
+
+THREE.JS
+
 This is a project based on Three.js which allows you to create and render 3D objects in your webp pages
 
 Here I have used use 3 main aspects to make this 3d project 
